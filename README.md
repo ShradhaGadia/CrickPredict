@@ -30,6 +30,7 @@
            <li>Feature importance analysis for model insights.</li>
        </ul>
    </ul>
+   <br>
    <h2>Getting Started</h2>
 
 <h3>Prerequisites</h3>
@@ -51,7 +52,7 @@
 </ol>
 
 <hr>
-
+<br>
 <h2>Workflow</h2>
 
 <h3>Data Preparation</h3>
@@ -77,7 +78,8 @@
     <li>Compare the yearly performance of key players like Virat Kohli, MS Dhoni, and AB de Villiers.</li>
     <li>Display graphs showing actual vs. predicted performance.</li>
 </ul>
-<h2>Workflow</h2>
+<br>
+<h2>Results</h2>
     <h2>Model Optimization</h2>
     <p>
         The use of multiple machine learning models resulted in a progressive reduction in prediction errors:
@@ -115,4 +117,5 @@
             </ul>
         </li>
     </ul>
+    <br>
 Contributions and feedbacks are welcome!!
