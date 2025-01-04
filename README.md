@@ -5,7 +5,6 @@
         and Random Forest Regressor. It optimizes predictions by leveraging format-specific models for 
         Test, ODI, and T20 cricket formats.
     </p>
-
     <h2>Model Optimization</h2>
     <p>
         The use of multiple machine learning models resulted in a progressive reduction in prediction errors:
@@ -21,7 +20,6 @@
             <em>90.2% reduction in MSE</em> and an <em>89.1% reduction in MAE</em>.
         </li>
     </ul>
-
     <h2>Format-Specific Metrics</h2>
     <p>
         Predictions were further optimized by training separate models for each cricket format, 
